@@ -16,7 +16,7 @@ Course Materials from the Masters Computer Networking class CS5610 at Northeaste
 ## Screenshots of Assignment 4
 
 Home Tab Screenshot        |  Course Manager Screenshot |  Course Module Screenshot
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 ![Home Tab Screenshot](https://github.com/coder-chick/wbdv-sp21-semaa-amin-assignment4-client-react/blob/main/CS5610Sp21A4HomeTabScreenshot.png)  |  ![Course Manager Screenshot](https://github.com/coder-chick/wbdv-sp21-semaa-amin-assignment4-client-react/blob/main/CS5610Sp21A4CourseManagerScreenshot.png)  |  ![Course Module Screenshot](https://github.com/coder-chick/wbdv-sp21-semaa-amin-assignment4-client-react/blob/main/CS5610Sp21A4CourseModuleScreenshot.png)
 
 
