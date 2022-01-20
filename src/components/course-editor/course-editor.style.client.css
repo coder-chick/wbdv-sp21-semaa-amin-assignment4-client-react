@@ -1,0 +1,51 @@
+.wbdv-course-dashboard {
+    height: 100%;
+}
+
+.wbdv-course-lessons .nav-link {
+    background-color: #8f8c8c  !important;
+    /* border: 1px solid gainsboro; */
+    margin-left: 3%;
+    margin-right: 3%;
+    color: rgb(26, 150, 68);
+    display: block;
+}
+
+.wbdv-course-lessons .nav-link.active {
+    background-color: rgb(25, 233, 25) !important;
+}
+
+/* .wbdv-course-lessons .nav-item {
+    padding-top: 0;
+    padding-bottom: 0;
+} */
+
+.wbdv-course-topics .nav-link {
+    background-color: #8f8c8c  !important;
+    border: 1px solid rgb(190, 178, 178);
+    /* margin-left: 3%;
+    margin-right: 3%; */
+    color: rgb(204, 196, 196);
+}
+
+.wbdv-course-topics .nav-link.active {
+    background-color: rgb(100, 237, 130) !important;
+}
+
+.wbdv-course-module {
+    background: #403e3e;
+    height: 100vh;
+}
+
+.wbdv-course-module a {
+    background-color: lightgrey;
+    /* margin-top: 2%;
+    margin-bottom: 2%; */
+    border: 1px solid gainsboro;
+    background-color: #8f8c8c;
+}
+
+.list-group-item.active {
+    background-color: rgb(95, 211, 41) !important;
+    border: 1px solid gainsboro !important;
+}
