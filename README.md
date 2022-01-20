@@ -19,9 +19,9 @@ Home Tab Screenshot        |  Course Manager Screenshot |  Course Module Screens
 ![Home Tab Screenshot](https://github.com/coder-chick/wbdv-sp21-semaa-amin-assignment4-client-react/blob/main/CS5610Sp21A4HomeTabScreenshot.png)  |  ![Course Manager Screenshot](https://github.com/coder-chick/wbdv-sp21-semaa-amin-assignment4-client-react/blob/main/CS5610Sp21A4CourseManagerScreenshot.png)  |  ![Course Module Screenshot](https://github.com/coder-chick/wbdv-sp21-semaa-amin-assignment4-client-react/blob/main/CS5610Sp21A4CourseModuleScreenshot.png)
 
 ## Features for Assignment 4
-Navigating from Course List to Course Editor
-Navigating between Modules, Lessons, and Topics
-Maintaining state for current Course, Module, Lesson, and Topic
+* Navigating from Course List to Course Editor
+* Navigating between Modules, Lessons, and Topics
+* Maintaining state for current Course, Module, Lesson, and Topic
 
 
 ## Author:
